@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cartograph",
+  title: "orbital",
   description: "Dependency maps of public GitHub repositories",
 };
 
